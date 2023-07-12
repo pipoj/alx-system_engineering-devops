@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello (user)"
+MY_VAR="hello,user"
